@@ -9,7 +9,9 @@
 			"files.autoSave": "onWindowChange",
 			"files.hotExit": "off",
 			"files.associations": {
-				"iostream": "cpp"
+				"iostream": "cpp",
+				"ostream": "cpp",
+				"iosfwd": "cpp"
 			},
 		}
 }
